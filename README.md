@@ -63,7 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://testprojxon.onrender.com)
+[![Product Name Screen Shot][product-screenshot]](https://projxon.com)
 
 PROJXON is a leading business consulting firm helping medium-sized businesses achieve their full potential. This project aims to provide a comprehensive digital platform that enhances client engagement, streamlines communication, and showcases the firm's expertise through an intuitive and user-friendly website. By integrating modern design elements, responsive layouts, and optimized backend functionality, the project seeks to highlight PROJXON's services, share insightful research, and establish the firm as a trusted partner for business growth and innovation.
 
@@ -110,7 +110,7 @@ To get a local copy up and running follow these simple example steps.
    ```
 3. Enter your API in frontend/projxon-web `.env`
    ```js
-   REACT_APP_API_URL = 'http://localhost:3000/'
+   REACT_APP_API_URL = 'http://localhost:4000'
    REACT_APP_SERVICE_ID = 'ENTER SERVICE ID KEY FOR EMAILJS FROM EMAIL SERVICE'
    REACT_APP_TEMPLATE_ID_1 = 'ENTER TEMPLATE ID KEY FOR EMAILJS FROM EMAIL TEMPLATE'
    REACT_APP_PUBLIC_KEY = 'ENTER PUBLIC KEY FOR EMAILJS FROM ACCOUNT'
