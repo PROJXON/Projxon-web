@@ -92,8 +92,8 @@ const Footer = () => {
                     <Col xs={6} md={2} className="mb-3">
                         <h2 className="footer-heading">Careers</h2>
                         <ul className="list-unstyled">
-                            <li><Link to="/career" className="footer-link">Join Our Team</Link></li>
-                            <li><Link to="/career" className="footer-link">Internship Program</Link></li>
+                            <li><Link to="https://app.dover.com/jobs/projxon" className="footer-link">Join Our Team</Link></li>
+                            <li><Link to="https://app.dover.com/jobs/projxon" className="footer-link">Internship Program</Link></li>
                         </ul>
                     </Col>
                 </Row>
